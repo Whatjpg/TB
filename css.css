@@ -1,0 +1,1314 @@
+*{
+    margin: 0;
+    padding: 0;
+    margin: 0 auto;
+    list-style-type: none;
+    text-decoration: none;
+}
+.content{
+    width: 1000px;
+    height: 5000px;
+    border: 1px solid rebeccapurple;
+}
+.nav{
+    width: 1000px;
+    height:50px;
+    background-color: beige;
+}
+.leftNav{
+    width: 300px;
+    height: 50px;
+    /*background-color: aqua;*/
+    line-height: 50px;
+    float: left;
+}
+.leftNav ul li a:hover{
+    background-color: brown;
+}
+.leftNav ul li {
+    float: left;
+    margin-left: 20px;
+}
+.leftNav ul li a {
+    color: black;
+}
+.rightNav{
+    /*background-color: cadetblue;*/
+    float: right;
+    width: 600px;
+    height: 50px;
+}
+.rightNav ul li{
+    float: right;
+    line-height: 50px;
+    margin-left: 10px;
+}
+.rightNav ul li a:hover{
+    background-color: brown;
+}
+.GuangGao{
+    width: 1000px;
+    height: 80px;
+    margin:0 auto;
+    /*background-color: black;*/
+}
+.Taoimg{
+    width: 1000px;
+    height: 180px;
+    /*background-color: cadetblue;*/
+}
+.icon{
+    width:150px;
+    height: 150px;
+    float: left;
+    margin-left: 30px;
+    margin-top: 15px;
+}
+.SonSeach{
+    float: right;
+    /*background-color: red;*/
+    width: 600px;
+    height: 50px;
+    margin-top: 0px;
+    margin-right: 150px;
+}
+.ppp{
+    width: 600px;
+    height: 30px;
+    /*background-color: red;*/
+    float: right;
+    margin-top: 0px;
+    margin-right: 150px;
+}
+.ppp ul li {
+    float: left;
+    margin-left: 5px;
+}
+.b1{
+    /*background-color: red;*/
+    width: 50px;
+    height: 30px;
+    float: left;
+    margin-left: 70px;
+    margin-top: 30px;
+}
+.Theme{
+    width: 1000px;
+    height: 30px;
+    float: left;
+}
+.SonTheme{
+    background-color: orangered;
+    width: 200px;
+    height: 500px;
+    float: left;
+}
+.thA{
+    width: 200px;
+    height: 30px;
+}
+.xietiao{
+    line-height: 30px;
+    color: white;
+    width: 1px;
+    height: 10px;
+}
+
+.xie{
+    width: 2px;
+    height: 25px;
+    float: left;
+    font-size: 30px;
+    line-height: 30px;
+    color: white;
+}
+.thB{
+    width: 200px;
+    height: 30px;
+    margin-top: 10px;
+}
+.thB ul li{
+    float: left;
+    font-size: 20px;
+    color: white;
+}
+.dayuhao{
+    float: right;
+    line-height: 30px;
+    color: white;
+    font-size: 20px;
+}
+.ulOne{
+    width: 180px;
+    height: 30px;
+    float: left;
+    margin-left: 20px;
+    line-height: 30px;
+}
+.Theme ul li {
+    float: left;
+    margin-left: 8px;
+}
+.ulTwo  {
+    width: 300px;
+    height: 30px;
+    float: left;
+    margin-left: 10px;
+    line-height: 30px;
+}
+.ulThree{
+    width: 250px;
+    height: 30px;
+    float: left;
+    margin-left: 10px;
+    line-height: 30px;
+}
+.BaiTiao{
+    width: 1px;
+    height: 20px;
+    background-color: black;
+    float: left;
+    margin-top: 5px;
+}
+#conq{
+    width: 700px;
+    height: 450px;
+    /*border: 1px solid red;*/
+    margin-top: 18px;
+    float: left;
+    margin-left: 210px;
+    overflow: hidden;
+    position: relative;
+}
+/*#con{*/
+    /*border: 1px solid green;*/
+    /*width: 500px;*/
+    /*height: 300px;*/
+    /*float: left;*/
+/*}*/
+#sec{
+    width: 700px;  //555
+    height: 300px;
+    float: left;
+}
+#sec img{
+    width: 700px;
+    height: 450px;
+    float: left;
+}
+#thr{
+    width: 140px;
+    height: 30px;
+    position: absolute;
+    margin-top: 300px;
+    margin-left: 1500px;
+}
+#thr li{
+    float: left;
+    color: darkmagenta;
+    margin-left: 10px;
+    line-height: 30px;
+    border: 1px solid red;
+}
+.on{
+    background-color: aqua;
+}
+.GuangGaoTwo{
+
+    width: 70px;
+    height: 450px;
+    float: left;
+    margin-top: 18px;
+    margin-left: 5px;
+}
+.TuPianNav{
+    /*border: 1px solid red;*/
+    width: 700px;
+    height: 100px;
+    margin-top: 10px;
+    float: left;
+}
+.TuPianNav img{
+    width: 100px;
+    height: 60px;
+    margin-top: 20px;
+    float: left;
+}
+.T1{
+    /*border: 1px solid red;*/
+    width: 200px;
+    height: 100px;
+    float: left;
+}
+.T2{
+    /*border: 1px solid red;*/
+    width: 200px;
+    height: 100px;
+    float: left;
+    margin-left: 45px;
+}
+.T3{
+    /*border: 1px solid red;*/
+    width: 200px;
+    height: 100px;
+    float: left;
+    margin-left: 45px;
+}
+.App{
+    /*border: 1px solid red;*/
+    width: 250px;
+    height: 100px;
+    float: left;
+    margin-top: 10px;
+    margin-left: 20px;
+}
+.aliApp{
+    border: 1px solid white;
+    width: 250px;
+    height: 20px;
+}
+.Sonimg{
+    border: 1px solid white;
+    width: 250px;
+    height: 80px;
+}
+.Sonimg img{
+    width: 35px;
+    height: 35px;
+    float: left;
+    margin-left: 0px;
+}
+#fir{
+    float: left;
+    margin-left: 10px;
+}
+.Sonimg img:hover{
+    background: url("erwei.png");
+}
+.often{
+    width:700px;
+    height: 30px;
+    /*border: 1px solid red;*/
+    float: left;
+    margin-top: 10px;
+}
+.CenterDiv{
+    /*border: 1px solid red;*/
+    width: 700px;
+    height: 630px;
+    float: left;
+    margin-top: 10px;
+}
+.A{
+    /*border: 1px solid red;*/
+    width: 330px;
+    height: 300px;
+    float: left;
+}
+.SonA1{
+    /*border: 1px solid red;*/
+    width: 210px;
+    height: 120px;
+    float: left;
+}
+.SonA2{
+    /*border: 1px solid red;*/
+    width:100px;
+    height: 170px;
+    float: left;
+    margin-top: 6px;
+}
+.SonA3{
+    /*border: 1px solid red;*/
+    width:100px;
+    height: 170px;
+    float: right;
+    margin-top: 6px;
+}
+.leftone{
+    background-color: blueviolet;
+    width: 110px;
+    height: 300px;
+    float: left;
+}
+.B{
+    /*border: 1px solid red;*/
+    width: 330px;
+    height: 300px;
+    float: right;
+}
+.SonB1{
+    /*border: 1px solid red;*/
+    width: 210px;
+    height: 120px;
+    float: left;
+}
+.SonB2{
+    /*border: 1px solid red;*/
+    width:100px;
+    height: 170px;
+    float: left;
+    margin-top: 6px;
+}
+.SonB3{
+    /*border: 1px solid red;*/
+    width:100px;
+    height: 170px;
+    float: right;
+    margin-top: 6px;
+}
+.leftTwo{
+    background-color: yellow;
+    width: 110px;
+    height: 300px;
+    float: left;
+}
+.C{
+    /*border: 1px solid red;*/
+    width: 330px;
+    height: 300px;
+    float: left;
+    margin-top: 10px;
+}
+.SonC1{
+    /*border: 1px solid red;*/
+    width:100px;
+    height: 170px;
+    float: right;
+    margin-top: 6px;
+}
+.SonC2{
+    /*border: 1px solid red;*/
+    width:100px;
+    height: 170px;
+    float: left;
+    margin-top: 6px;
+}
+.SonC3{
+    /*border: 1px solid red;*/
+    width: 210px;
+    height: 120px;
+    float: left;
+}
+.leftThree{
+    background-color: darkred;
+    width: 110px;
+    height: 300px;
+    float: left;
+}
+.D{
+    /*border: 1px solid red;*/
+    width: 330px;
+    height: 300px;
+    float: right;
+    margin-top: 10px;
+}
+.SonD1{
+    /*border: 1px solid red;*/
+    width:100px;
+    height: 170px;
+    float: right;
+    margin-top: 6px;
+}
+.SonD2{
+    /*border: 1px solid red;*/
+    width:100px;
+    height: 170px;
+    float: left;
+    margin-top: 6px;
+}
+.SonD3{
+    /*border: 1px solid red;*/
+    width: 210px;
+    height: 120px;
+    float: left;
+}
+.leftFour{
+    background-color: hotpink;
+    width: 110px;
+    height: 300px;
+    float: left;
+}
+.Cen{
+    width: 1000px;
+    height: 750px;
+    /*border: 1px solid red;*/
+    float: left;
+}
+.CeBian{
+    /*border: 1px solid red;*/
+    width:250px;
+    height: 1900px;
+    float: right;
+    margin-left: 20px;
+    margin-top: 10px;
+}
+.CeBianTop{
+    /*border: 1px solid black;*/
+    width:250px;
+    height: 130px;
+    float: right;
+}
+.CeBianBoom1{
+    /*border: 1px solid red;*/
+    width:250px;
+    height: 30px;
+    margin-top: 10px;
+}
+/*.CeBianBoom2{*/
+    /*border: 1px solid red;*/
+    /*width:250px;*/
+    /*height: 150px;*/
+/*}*/
+
+
+
+#demo {
+    background: #FFF;
+    overflow:hidden;
+    border: 1px dashed #CCC;
+    width: 250px;
+}
+#demo img {
+    border: 3px solid #F2F2F2;
+    width: 80px;
+    height: 80px;
+}
+#indemo {
+    float: left;
+    width: 800%;
+}
+#demo1 {
+    float: left;
+}
+#demo2 {
+    float: left;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.CeBianBoom3{
+    /*border: 1px solid red;*/
+    width:250px;
+    height: 150px;
+    margin-top: 10px;
+}
+.CeBianBoom4{
+    /*border: 1px solid red;*/
+    width:250px;
+    height: 150px;
+    margin-top: 10px;
+}
+.CeBianBoom5{
+    /*border: 1px solid red;*/
+    width:250px;
+    height: 150px;
+    margin-top: 10px;
+}
+.youhaohuo{
+    width: 250px;
+    height: 40px;
+    /*border: 1px solid red;*/
+}
+.leA{
+    /*border: 1px solid red;*/
+    width:100px;
+    height: 100px;
+    float: left;
+}
+.leB{
+    /*border: 1px solid red;*/
+    width:145px;
+    height: 100px;
+    float: right;
+}
+.CeBianBoom6{
+    /*border: 1px solid red;*/
+    width:250px;
+    height: 150px;
+    margin-top: 10px;
+}
+.leC{
+    /*border: 1px solid red;*/
+    width:  100px;
+    height: 150px;
+    float: left;
+}
+.leD{
+    /*border: 1px solid red;*/
+    width:145px;
+    height: 150px;
+    float: right;
+}
+.CeBianBoom7{
+    /*border: 1px solid red;*/
+    width:250px;
+    height: 150px;
+    margin-top: 10px;
+}
+.leE{
+    /*border: 1px solid red;*/
+    width:  100px;
+    height: 150px;
+    float: left;
+}
+.leF{
+    /*border: 1px solid red;*/
+    width:145px;
+    height: 150px;
+    float: right;
+}
+.CeBianBoom8{
+    /*border: 1px solid red;*/
+    width:250px;
+    height: 150px;
+    margin-top: 10px;
+}
+.leG{
+    /*border: 1px solid red;*/
+    width:  100px;
+    height: 150px;
+    float: left;
+}
+.leH{
+    /*border: 1px solid red;*/
+    width:145px;
+    height: 150px;
+    float: right;
+}
+.CeBianBoom9{
+    /*border: 1px solid red;*/
+    width:250px;
+    height: 150px;
+    margin-top: 10px;
+}
+
+.leI{
+    /*border: 1px solid red;*/
+    width:  100px;
+    height: 150px;
+    float: left;
+}
+.leJ{
+    /*border: 1px solid red;*/
+    width:145px;
+    height: 150px;
+    float: right;
+}
+.CeBianBoom10{
+    /*border: 1px solid red;*/
+    width:250px;
+    height: 350px;
+    margin-top: 10px;
+}
+.leK{
+    /*border: 1px solid red;*/
+    width:250px;
+    height: 40px;
+}
+.CeBianBoom11{
+    /*border: 1px solid black;*/
+    width:250px;
+    height: 250px;
+    margin-top: 10px;
+}
+.GuangGaoThree{
+    /*border: 1px solid red;*/
+    width: 700px;
+    height: 80px;
+    float: left;
+    margin-top: 10px;
+    margin-left: 0px;
+}
+.fashion{
+    width:700px;
+    height: 30px;
+    /*border: 1px solid red;*/
+    float: left;
+    margin-top: 10px;
+}
+.CenterDivTwo{
+    /*border: 1px solid red;*/
+    width: 700px;
+    height: 630px;
+    float: left;
+    margin-top: 10px;
+}
+.E{
+    /*border: 1px solid red;*/
+    width: 330px;
+    height: 300px;
+    float: left;
+}
+.SonE{
+    width: 330px;
+    height: 50px;
+    /*border: 1px solid red;*/
+}
+.SonE1{
+    width: 180px;
+    height: 240px;
+    /*border: 1px solid red;*/
+    float: left;
+    margin-top: 6px;
+}
+.SonE2{
+    width: 145px;
+    height: 120px;
+    /*border: 1px solid red;*/
+    float: left;
+    margin-top: 5px;
+}
+.SonE3{
+    width: 145px;
+    height: 120px;
+    /*border: 1px solid red;*/
+    float: left;
+}
+.F{
+    /*border: 1px solid red;*/
+    width: 330px;
+    height: 300px;
+    float: right;
+}
+.SonF{
+    width: 330px;
+    height: 50px;
+    /*border: 1px solid red;*/
+}
+.SonF1{
+    width: 180px;
+    height: 240px;
+    /*border: 1px solid red;*/
+    float: left;
+    margin-top: 6px;
+}
+.SonF2{
+    width: 145px;
+    height: 120px;
+    /*border: 1px solid red;*/
+    float: left;
+    margin-top: 5px;
+}
+.SonF3{
+    width: 145px;
+    height: 120px;
+    /*border: 1px solid red;*/
+    float: left;
+}
+.G{
+    /*border: 1px solid red;*/
+    width: 330px;
+    height: 300px;
+    float: left;
+    margin-top: 10px;
+}
+.SonG{
+    width: 330px;
+    height: 50px;
+    /*border: 1px solid red;*/
+}
+.SonG1{
+    width: 180px;
+    height: 240px;
+    /*border: 1px solid red;*/
+    float: left;
+    margin-top: 6px;
+}
+.SonG2{
+    width: 145px;
+    height: 120px;
+    /*border: 1px solid red;*/
+    float: left;
+    margin-top: 5px;
+}
+.SonG3{
+    width: 145px;
+    height: 120px;
+    /*border: 1px solid red;*/
+    float: left;
+}
+.H{
+    /*border: 1px solid red;*/
+    width: 330px;
+    height: 300px;
+    float: right;
+    margin-top: 10px;
+}
+.SonH{
+    width: 330px;
+    height: 50px;
+    /*border: 1px solid red;*/
+}
+.SonH1{
+    width: 180px;
+    height: 240px;
+    /*border: 1px solid red;*/
+    float: left;
+    margin-top: 6px;
+}
+.SonH2{
+    width: 145px;
+    height: 120px;
+    /*border: 1px solid red;*/
+    float: left;
+    margin-top: 5px;
+}
+.SonH3{
+    width: 145px;
+    height: 120px;
+    /*border: 1px solid red;*/
+    float: left;
+}
+.Life{
+    width:700px;
+    height: 30px;
+    /*border: 1px solid red;*/
+    float: left;
+    margin-top: 10px;
+}
+.CenterDivThree{
+    /*border: 1px solid red;*/
+    width: 700px;
+    height: 200px;
+    float: left;
+    margin-top: 10px;
+}
+.I{
+    /*border: 1px solid red;*/
+    width: 210px;
+    height: 200px;
+    float: left;
+}
+.TaoBaohuichi{
+    /*border: 1px solid red;*/
+    width: 210px;
+    height: 40px;
+    float: left;
+}
+.SonI1{
+    width: 100px;
+    height: 158px;
+    border: 1px solid red;
+    float: left;
+}
+.SonI2{
+    width: 100px;
+    height: 158px;
+    /*border: 1px solid red;*/
+    float: right;
+}
+.J{
+    /*border: 1px solid red;*/
+    width: 210px;
+    height: 200px;
+    float: left;
+    margin-left: 15px;
+}
+.jiyoujia{
+    /*border: 1px solid red;*/
+    width: 210px;
+    height: 40px;
+    float: left;
+}
+.SonJ1{
+    margin-top: 40px;
+    width: 210px;
+    height: 80px;
+    /*border: 1px solid red;*/
+}
+.SonJ2{
+    width: 210px;
+    height: 80px;
+    /*border: 1px solid red;*/
+}
+.K{
+    /*border: 1px solid red;*/
+    width: 210px;
+    height: 200px;
+    float: left;
+    margin-left: 15px;
+}
+.zhongguo{
+    /*border: 1px solid red;*/
+    width: 210px;
+    height: 40px;
+    float: left;
+}
+.SonK1{
+    width: 100px;
+    height: 158px;
+    /*border: 1px solid red;*/
+    float: left;
+}
+.SonK2{
+    width: 100px;
+    height: 158px;
+    /*border: 1px solid red;*/
+    float: left;
+    margin-left: 5px;
+}
+.TeSe{
+    width:700px;
+    height: 30px;
+    /*border: 1px solid red;*/
+    float: left;
+    margin-top: 10px;
+}
+.CenterDivFour{
+    /*border: 1px solid red;*/
+    width: 700px;
+    height: 200px;
+    float: left;
+    margin-top: 10px;
+}
+.L{
+    /*border: 1px solid red;*/
+    width: 210px;
+    height: 200px;
+    float: left;
+}
+.dianqi{
+    /*border: 1px solid red;*/
+    width: 210px;
+    height: 40px;
+}
+.SonL1{
+    /*border: 1px solid red;*/
+    width: 100px;
+    height: 80px;
+    float: left;
+}
+.SonL2{
+    /*border: 1px solid red;*/
+    width: 100px;
+    height: 80px;
+    float: left;
+    margin-left: 6px;
+}
+.SonL3{
+    /*border: 1px solid red;*/
+    width: 210px;
+    height: 75px;
+    float: left;
+}
+.M{
+    /*border: 1px solid red;*/
+    width: 210px;
+    height: 200px;
+    float: left;
+    margin-left: 10px;
+}
+.zhongchou{
+    /*border: 1px solid red;*/
+    width: 210px;
+    height: 40px;
+}
+.SonM1{
+    /*border: 1px solid red;*/
+    width: 100px;
+    height: 80px;
+    float: left;
+}
+.SonM2{
+    /*border: 1px solid red;*/
+    width: 100px;
+    height: 80px;
+    float: left;
+    margin-left: 6px;
+}
+.SonM3{
+    /*border: 1px solid red;*/
+    width: 210px;
+    height: 75px;
+    float: left;
+}
+.N{
+    /*border: 1px solid red;*/
+    width: 210px;
+    height: 200px;
+    float: left;
+    margin-left: 10px;
+}
+.youxi{
+    /*border: 1px solid red;*/
+    width: 210px;
+    height: 40px;
+}
+.SonN1{
+    /*border: 1px solid red;*/
+    width: 100px;
+    height: 80px;
+    float: left;
+}
+.SonN2{
+    /*border: 1px solid red;*/
+    width: 100px;
+    height: 80px;
+    float: left;
+    margin-left: 6px;
+}
+.SonN3{
+    /*border: 1px solid red;*/
+    width: 210px;
+    height: 75px;
+    float: left;
+}
+.ShiHui{
+    width:1000px;
+    height: 30px;
+    /*border: 1px solid red;*/
+    float: left;
+    margin-top: 10px;
+}
+.navDanPin{
+    width: 1000px;
+    height: 30px;
+    /*background-color: greenyellow;*/
+    float: left;
+    margin-top: 10px;
+}
+.navDanPin ul li {
+    float: left;
+    margin-left: 6px;
+}
+.CenterDivFive{
+    /*border:  1px solid red;*/
+    width: 1000px;
+    height: 410px;
+    float: left;
+    margin-top: 2px;
+}
+.O{
+    /*border:  1px solid red;*/
+    width: 450px;
+    height: 410px;
+    float: left;
+}
+.P{
+    /*border:  1px solid red;*/
+    width: 220px;
+    height: 410px;
+    float: left;
+}
+.SonP{
+    /*border:  1px solid red;*/
+    width: 220px;
+    height: 40px;
+}
+.price{
+    /*border: 1px solid red;*/
+    width: 210px;
+    height: 50px;
+    float: left;
+}
+
+.Q{
+    /*border:  1px solid red;*/
+    width: 220px;
+    height: 200px;
+    float: left;
+}
+.SonQ{
+    /*border:  1px solid red;*/
+    width: 220px;
+    height: 40px;
+}
+.SonQ1{
+    /*border:  1px solid red;*/
+    width:100px;
+    height: 150px;
+    float: left;
+    margin-top: 40px;
+}
+.ww{
+    width: 70px;
+    height: 25px;
+    border: 1px solid red;
+    border-radius: 20px 20px 20px 20px;
+    margin-top: 20px;
+    float: right;
+
+}
+.SonQ2{
+    /*border:  1px solid red;*/
+    width:100px;
+    height: 150px;
+    float: right;
+    margin-top: 5px;
+}
+.R{
+    /*border:  1px solid red;*/
+    width: 220px;
+    height: 200px;
+    float: left;
+    margin-top: 8px;
+}
+.SonR{
+    /*border:  1px solid red;*/
+    width: 220px;
+    height: 40px;
+}
+.SonR1{
+    /*border:  1px solid red;*/
+    width:100px;
+    height: 150px;
+    float: left;
+    margin-top: 40px;
+}
+.SonR2{
+    /*border:  1px solid red;*/
+    width:100px;
+    height: 150px;
+    float: right;
+    margin-top: 5px;
+}
+.S{
+    /*border:  1px solid red;*/
+    width: 450px;
+    height: 410px;
+    float: right;
+}
+.T{
+    /*border:  1px solid red;*/
+    width: 220px;
+    height: 410px;
+    float: right;
+}
+.SonT{
+    /*border:  1px solid red;*/
+    width: 220px;
+    height: 40px;
+}
+.U{
+    /*border:  1px solid red;*/
+    width: 220px;
+    height: 200px;
+    float: left;
+}
+.SonU{
+    /*border:  1px solid red;*/
+    width: 220px;
+    height: 40px;
+}
+.SonU1{
+    /*border:  1px solid red;*/
+    width:100px;
+    height: 150px;
+    float: left;
+}
+.SonU2{
+    /*border:  1px solid red;*/
+    width:100px;
+    height: 150px;
+    float: right;
+}
+.zz{
+    width: 70px;
+    height: 25px;
+    border: 1px solid red;
+    border-radius: 20px 20px 20px 20px;
+    margin-top: 20px;
+    float: left;
+}
+.V{
+    /*border:  1px solid red;*/
+    width: 220px;
+    height: 200px;
+    float: left;
+    margin-top: 8px;
+}
+.SonV{
+    /*border:  1px solid red;*/
+    width: 220px;
+    height: 40px;
+}
+.SonV1{
+    /*border:  1px solid red;*/
+    width:100px;
+    height: 150px;
+    float: left;
+}
+.SonV2{
+    /*border:  1px solid red;*/
+    width:100px;
+    height: 150px;
+    float: right;
+}
+.BiMai{
+    width:1000px;
+    height: 30px;
+    /*border: 1px solid red;*/
+    float: left;
+    margin-top: 10px;
+}
+.CenterDivSix {
+    /*border: 1px solid red;*/
+    width: 1000px;
+    height: 300px;
+    float: left;
+    margin-top: 5px;
+}
+.W{
+    /*border: 1px solid red;*/
+    width: 450px;
+    height: 300px;
+    float: left;
+}
+.X{
+    /*border: 1px solid red;*/
+    width: 450px;
+    height: 300px;
+    float: right;
+}.Cai{
+     width:1000px;
+     height: 30px;
+     /*border: 1px solid red;*/
+     float: left;
+     margin-top: 10px;
+ }
+ .CenterDivSeven{
+     /*border: 1px solid red;*/
+     width: 1000px;
+     height: 250px;
+     float: left;
+     margin-top: 5px;
+ }
+ .Caione{
+     /*border: 1px solid red;*/
+     width: 190px;
+     height: 250px;
+     float: left;
+     margin-left: 13px;
+ }
+ .CaiTwo{
+     /*border: 1px solid red;*/
+     width: 190px;
+     height: 250px;
+     float: left;
+     margin-left: 2px;
+ }
+ .Caithree{
+     /*border: 1px solid red;*/
+     width: 190px;
+     height: 250px;
+     float: left;
+     margin-left: 2px;
+ }
+ .CaiFour{
+     /*border: 1px solid red;*/
+     width: 190px;
+     height: 250px;
+     float: left;
+     margin-left: 2px;
+ }
+ .CaiFive{
+     /*border: 1px solid red;*/
+     width: 190px;
+     height: 250px;
+     float: left;
+     margin-left: 2px;
+ }
+.END{
+    width:1000px;
+    height: 30px;
+    /*border: 1px solid red;*/
+    float: left;
+    margin-top: 10px;
+}
+.CenterDivEight{
+    /*border: 1px solid red;*/
+    width: 1000px;
+    height: 200px;
+    float: left;
+    margin-top: 5px;
+    background-color: rgba(0,0,0,0.15);
+}
+.E1{
+
+    width: 220px;
+    height: 200px;
+    float: left;
+    margin-left: 20px;
+}
+.top{
+
+    width: 220px;
+    height: 60px;
+    margin-top: 40px;
+}
+.E1 ul li{
+    float: left;
+    margin-left: 15px;
+}
+.E2{
+
+    width: 220px;
+    height: 200px;
+    float: left;
+    margin-left: 20px;
+}
+.E2 ul li{
+    float: left;
+    margin-left: 15px;
+}
+.E3{
+
+    width: 220px;
+    height: 200px;
+    float: left;
+    margin-left: 20px;
+}
+.E3 ul li{
+    float: left;
+    margin-left: 15px;
+}
+.E4{
+    width: 220px;
+    height: 200px;
+    float: left;
+    margin-left: 20px;
+}
+.E4 ul li{
+    float: left;
+    margin-left: 15px;
+}
+
+
+
+
+
